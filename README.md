@@ -31,7 +31,7 @@ Python 3.x installed on your system.
 
 Clone the Repository:
 
-https://github.com/SaravanaNani/ADQ-Task-Management.git
+https://github.com/achyutvarma/task--management-code-python.git
 Run the Application:
 
 task-managemet.py
