@@ -67,3 +67,7 @@ Delete User & Tasks
 -> Enter the username in the User Name field.
 
 -> Click the "Delete User & Tasks" button.
+
+
+<img width="1620" height="626" alt="image" src="https://github.com/user-attachments/assets/dc700daf-6583-43f9-887f-6c982e7dadc1" />
+
