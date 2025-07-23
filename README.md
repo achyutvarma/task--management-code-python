@@ -1,7 +1,7 @@
-ADQ-Task-Management - User & Task Management Module
-This project is a Python-based User and Task Management application that uses Tkinter for a graphical user interface (GUI). The application allows adding users, assigning tasks to users, updating task statuses, viewing all tasks, and deleting a user along with their tasks.
+## Task-Management - User & Task Management Module
+- This project is a Python-based User and Task Management application that uses Tkinter for a graphical user interface (GUI). The application allows adding users, assigning tasks to users, updating task statuses, viewing all tasks, and deleting a user along with their tasks.
 
-Features
+# Features
 Add Users
 -> Allows creating users.
 
